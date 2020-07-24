@@ -8,10 +8,10 @@ http = urllib3.PoolManager(num_pools=5, headers={'User-Agent': 'Mozilla/5.0 (Mac
  
 resp = http.request('GET', 'https://xindoo.blog.csdn.net/')
 
-reshtml = etree.HTML(resp.data.decode("utf-8"))
-html_data = reshtml.xpath(".//div[@class='article-item-box csdn-tracking-statistics']/h4") 
+resp_tree = etree.HTML(resp.data.decode("utf-8"))
+html_data = resp_tree.xpath(".//div[@class='article-item-box csdn-tracking-statistics']/h4") 
 f = open('README.md', 'w+')
-f.write("## 我的最新博客\n")
+f.write("## 我的博客\n")
 
 cnt = 0
 for i in html_data: 
