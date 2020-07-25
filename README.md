@@ -4,7 +4,15 @@
 专注于Java，对操作系统、网络、编译原理也有涉猎，目前正在写一门简易的脚本语言   
 
 
-### 我的博客
+<table><tr>
+<td valign="top" width="50%">
+
+- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版  
+- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式  
+- [redis](https://github.com/xindoo/redis) Redis中文注解版
+### [查看更多](https://github.com/xindoo/)   	
+	</td><td valign="top" width="50%">
+## 我的博客
 - [JDK11现存性能bug(JDK-8221393)深度解析](https://xindoo.blog.csdn.net/article/details/107291487)
 - [生日悖论是啥？我用它省了上百G的内存](https://xindoo.blog.csdn.net/article/details/107120414)
 - [为什么美国程序员工作比中国程序员工作轻松、加班少？](https://xindoo.blog.csdn.net/article/details/107081746)
@@ -13,7 +21,6 @@
 - [从0到1打造正则表达式执行引擎(二)](https://xindoo.blog.csdn.net/article/details/106458165)
 - [技术团队如何培养新人](https://xindoo.blog.csdn.net/article/details/106202183)
 - [面试题精选:循环队列](https://xindoo.blog.csdn.net/article/details/106035350)
-- [从0到1打造正则表达式执行引擎(一)](https://xindoo.blog.csdn.net/article/details/105875239)
-- [面试题精选:求根号2简单？高级算法你肯定不会](https://xindoo.blog.csdn.net/article/details/105456524)
 
 #### [查看更多](https://xindoo.blog.csdn.net/)
+</td></tr></table>

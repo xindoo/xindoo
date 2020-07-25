@@ -5,6 +5,7 @@ import html
 import re
 
 blogUrl = 'https://xindoo.blog.csdn.net/'
+
 headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36'} 
 
 def addIntro(f):
@@ -17,6 +18,16 @@ def addIntro(f):
 ''' 
 	f.write(txt)
 
+def addProjectInfo(f):
+	txt ='''
+- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版  
+- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式  
+- [redis](https://github.com/xindoo/redis) Redis中文注解版
+### [查看更多](https://github.com/xindoo/)   	
+	''' 
+	f.write(txt) 
+
+
 def addBlogInfo(f):  
 	http = urllib3.PoolManager(num_pools=5, headers = headers)
 	resp = http.request('GET', blogUrl)
@@ -25,7 +36,7 @@ def addBlogInfo(f):
 	f.write("## 我的博客\n")
 	cnt = 0
 	for i in html_data: 
-		if cnt >= 10:
+		if cnt >= 8:
 			break
 		title = i.xpath('./a/text()')[1].strip()
 		url = i.xpath('./a/@href')[0] 
@@ -36,6 +47,14 @@ def addBlogInfo(f):
 
 f = open('README.md', 'w+')
 addIntro(f)
+f.write('<table><tr>\n')
+f.write('<td valign="top" width="50%">\n')
+
+addProjectInfo(f)
+f.write('</td>')
+f.write('<td valign="top" width="50%">\n')
 addBlogInfo(f)
+f.write('</td>')
+f.write('</tr></table>\n')
 f.close 
 
