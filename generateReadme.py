@@ -20,10 +20,12 @@ def addIntro(f):
 
 def addProjectInfo(f):
 	txt ='''
+## 开源项目  
 - [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版    
 - [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式    
 - [redis](https://github.com/xindoo/redis) Redis中文注解版  
-### [查看更多](https://github.com/xindoo/)   
+
+[查看更多](https://github.com/xindoo/)     
 
 	''' 
 	f.write(txt) 
@@ -34,7 +36,7 @@ def addBlogInfo(f):
 	resp = http.request('GET', blogUrl)
 	resp_tree = etree.HTML(resp.data.decode("utf-8"))
 	html_data = resp_tree.xpath(".//div[@class='article-item-box csdn-tracking-statistics']/h4") 
-	f.write("## 我的博客\n")
+	f.write("\n## 我的博客\n")
 	cnt = 0
 	for i in html_data: 
 		if cnt >= 5:
@@ -44,7 +46,7 @@ def addBlogInfo(f):
 		item = '- [%s](%s)\n' % (title, url)
 		f.write(item)
 		cnt = cnt + 1
-	f.write('\n#### [查看更多](https://xindoo.blog.csdn.net/)\n')
+	f.write('\n[查看更多](https://xindoo.blog.csdn.net/)\n')
 
 f = open('README.md', 'w+')
 addIntro(f)
@@ -52,10 +54,10 @@ f.write('<table><tr>\n')
 f.write('<td valign="top" width="50%">\n')
 
 addProjectInfo(f)
-f.write('</td>\n')
+f.write('\n</td>\n')
 f.write('<td valign="top" width="50%">\n')
 addBlogInfo(f)
-f.write('</td>\n')
+f.write('\n</td>\n')
 f.write('</tr></table>\n')
 f.close 
 
