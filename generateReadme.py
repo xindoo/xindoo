@@ -24,7 +24,8 @@ def addProjectInfo(f):
 - [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版    
 - [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式    
 - [redis](https://github.com/xindoo/redis) Redis中文注解版  
-
+- [slowjson](https://github.com/xindoo/slowjson) 用antlr实现的json解析器  
+- [leetcode](https://github.com/xindoo/leetcode) 我的Leetcode题解   
 [查看更多](https://github.com/xindoo/)     
 
 	''' 
