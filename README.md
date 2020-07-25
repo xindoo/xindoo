@@ -7,20 +7,25 @@
 <table><tr>
 <td valign="top" width="50%">
 
-- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版  
-- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式  
-- [redis](https://github.com/xindoo/redis) Redis中文注解版
-### [查看更多](https://github.com/xindoo/)   	
-	</td><td valign="top" width="50%">
+## 开源项目  
+- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版    
+- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式    
+- [redis](https://github.com/xindoo/redis) Redis中文注解版  
+
+[查看更多](https://github.com/xindoo/)     
+
+	
+</td>
+<td valign="top" width="50%">
+
 ## 我的博客
 - [JDK11现存性能bug(JDK-8221393)深度解析](https://xindoo.blog.csdn.net/article/details/107291487)
 - [生日悖论是啥？我用它省了上百G的内存](https://xindoo.blog.csdn.net/article/details/107120414)
 - [为什么美国程序员工作比中国程序员工作轻松、加班少？](https://xindoo.blog.csdn.net/article/details/107081746)
 - [一文理解操作系统虚拟内存](https://xindoo.blog.csdn.net/article/details/106958031)
 - [Json字段选取器介绍和实现](https://xindoo.blog.csdn.net/article/details/106877604)
-- [从0到1打造正则表达式执行引擎(二)](https://xindoo.blog.csdn.net/article/details/106458165)
-- [技术团队如何培养新人](https://xindoo.blog.csdn.net/article/details/106202183)
-- [面试题精选:循环队列](https://xindoo.blog.csdn.net/article/details/106035350)
 
-#### [查看更多](https://xindoo.blog.csdn.net/)
-</td></tr></table>
+[查看更多](https://xindoo.blog.csdn.net/)
+
+</td>
+</tr></table>
