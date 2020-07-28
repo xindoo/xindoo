@@ -32,6 +32,9 @@ jobs:
     - name: Run python  
       run: python generateReadme.py
 
+    - name: Record time  
+      run: echo `date` > date.log
+
     - name: Commit and push if changed   # 把readme更新到仓库
       run: |
         git diff
