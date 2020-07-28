@@ -38,8 +38,8 @@ jobs:
     - name: Commit and push if changed   # 把readme更新到仓库
       run: |
         git diff
-        git config --global user.email "xindoo@qq.com"
-        git config --global user.name "xindoo"
+        git config --global user.email "xindoo@zxs.io"
+        git config --global user.name "zxs"
         git add -A
         git commit -m "Updated Readme" || exit 
         git push
