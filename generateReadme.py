@@ -12,7 +12,7 @@ def addIntro(f):
 	txt = ''' 
 9年技术博主，CSDN认证博客专家，新晋视频up主  
 曾在阿里做过2年运维+1年开发，现为某厂Java后端开发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   
-专注于Java，对操作系统、网络、编译原理也有涉猎，目前正在写一门简易的脚本语言   
+专注于Java，对操作系统、网络、编译原理也有涉猎，目前正在写一门简易的脚本语言u-lang     
 
 
 ''' 
@@ -50,16 +50,18 @@ def addBlogInfo(f):
 		cnt = cnt + 1
 	f.write('\n[查看更多](https://xindoo.blog.csdn.net/)\n')
 
-f = open('README.md', 'w+')
-addIntro(f)
-f.write('<table><tr>\n')
-f.write('<td valign="top" width="50%">\n')
 
-addProjectInfo(f)
-f.write('\n</td>\n')
-f.write('<td valign="top" width="50%">\n')
-addBlogInfo(f)
-f.write('\n</td>\n')
-f.write('</tr></table>\n')
-f.close 
+if __name__=='__main__':
+	f = open('README.md', 'w+')
+    addIntro(f)
+    f.write('<table><tr>\n')
+    f.write('<td valign="top" width="50%">\n')
+
+    addProjectInfo(f)
+    f.write('\n</td>\n')
+    f.write('<td valign="top" width="50%">\n')
+    addBlogInfo(f)
+    f.write('\n</td>\n')
+    f.write('</tr></table>\n')
+    f.close 
 
