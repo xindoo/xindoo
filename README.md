@@ -21,7 +21,7 @@
 <td valign="top" width="50%">
 
 ### 我的博客
-- [如何把百度伪装成Google的样子](https://xindoo.blog.csdn.net/article/details/107898953)
+- [如何把百度伪装成Google](https://xindoo.blog.csdn.net/article/details/107898953)
 - [如何制作一个可以自动更新的Github个人主页](https://xindoo.blog.csdn.net/article/details/107897691)
 - [[视频]程序猿到底要不要刷Leetcode？](https://xindoo.blog.csdn.net/article/details/107757378)
 - [JDK11现存性能bug(JDK-8221393)深度解析](https://xindoo.blog.csdn.net/article/details/107291487)
