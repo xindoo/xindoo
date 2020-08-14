@@ -9,8 +9,10 @@ blogUrl = 'https://xindoo.blog.csdn.net/'
 headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36'} 
 
 def addIntro(f):
-	txt = ''' 
-![xindoo's github stats](https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite)  
+	txt = '''  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
+</p>
 
 9年技术博主，CSDN认证博客专家，新晋视频up主  
 曾在阿里做过2年运维+1年开发，现为某厂Java后端开发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   
