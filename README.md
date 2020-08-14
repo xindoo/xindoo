@@ -1,5 +1,4 @@
- 
-![xindoo's github stats](https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite)  
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
 </p>
@@ -9,7 +8,7 @@
 专注于Java，对操作系统、网络、编译原理也有涉猎，目前正在写一门简易的脚本语言u-lang	 
 
 
-<table><tr>
+<table align="center"><tr>
 <td valign="top" width="50%">
 
 ### 开源项目  

@@ -58,7 +58,7 @@ def addBlogInfo(f):
 if __name__=='__main__':
 	f = open('README.md', 'w+')
 	addIntro(f)
-	f.write('<table><tr>\n')
+	f.write('<table align="center"><tr>\n')
 	f.write('<td valign="top" width="50%">\n')
 	addProjectInfo(f)
 	f.write('\n</td>\n')
