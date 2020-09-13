@@ -25,11 +25,11 @@
 <td valign="top" width="50%">
 
 ### 我的博客
+- [程序猿职场求生指北[手动狗头]](https://xindoo.blog.csdn.net/article/details/108552040)
 - [我背着CSDN偷偷记录了大半年我博客数据[手动狗头]](https://xindoo.blog.csdn.net/article/details/108431882)
 - [面试题精选:两个线程按顺序交替输出1-100](https://xindoo.blog.csdn.net/article/details/108425940)
 - [Java中synchronized与ReentrantLock性能对比](https://xindoo.blog.csdn.net/article/details/108185347)
 - [如何把百度伪装成Google](https://xindoo.blog.csdn.net/article/details/107898953)
-- [如何制作一个可以自动更新的Github个人主页](https://xindoo.blog.csdn.net/article/details/107897691)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
