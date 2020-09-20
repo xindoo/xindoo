@@ -25,11 +25,11 @@
 <td valign="top" width="50%">
 
 ### 我的博客
+- [面试题精选:字符串替换](https://xindoo.blog.csdn.net/article/details/108685883)
+- [Redis源码剖析开篇](https://xindoo.blog.csdn.net/article/details/108698706)
 - [面试题精选:数据伪造](https://xindoo.blog.csdn.net/article/details/108566179)
 - [程序猿职场求生指南[手动狗头]](https://xindoo.blog.csdn.net/article/details/108552040)
 - [我背着CSDN偷偷记录了大半年我博客数据[手动狗头]](https://xindoo.blog.csdn.net/article/details/108431882)
-- [面试题精选:两个线程按顺序交替输出1-100](https://xindoo.blog.csdn.net/article/details/108425940)
-- [Java中synchronized与ReentrantLock性能对比](https://xindoo.blog.csdn.net/article/details/108185347)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
