@@ -25,7 +25,7 @@
 <td valign="top" width="50%">
 
 ### 我的博客
-- [Redis源码剖析系列博文开篇&大纲](https://xindoo.blog.csdn.net/article/details/108698706)
+- [Redis源码剖析之快速列表(quicklist)](https://xindoo.blog.csdn.net/article/details/109150975)
 - [Redis源码剖析之压缩列表(ziplist)](https://xindoo.blog.csdn.net/article/details/108923557)
 - [面试题精选:单链表排序也能玩出花来](https://xindoo.blog.csdn.net/article/details/108893242)
 - [Redis源码剖析之SDS(Simple Dynamic String)](https://xindoo.blog.csdn.net/article/details/108808273)
