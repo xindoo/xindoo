@@ -25,11 +25,11 @@
 <td valign="top" width="50%">
 
 ### 我的博客
+- [awk实现类sql的join操作](https://xindoo.blog.csdn.net/article/details/109542972)
 - [CAP理论及其证明](https://xindoo.blog.csdn.net/article/details/109348163)
 - [今年是冷冬？我爬了北京10年的气温，哟 还真是！](https://xindoo.blog.csdn.net/article/details/109253392)
 - [Redis源码剖析之快速列表(quicklist)](https://xindoo.blog.csdn.net/article/details/109150975)
 - [Redis源码剖析之压缩列表(ziplist)](https://xindoo.blog.csdn.net/article/details/108923557)
-- [面试题精选:单链表排序也能玩出花来](https://xindoo.blog.csdn.net/article/details/108893242)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
