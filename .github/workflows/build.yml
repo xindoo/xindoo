@@ -22,7 +22,7 @@ jobs:
     - uses: actions/checkout@v2  
       
     - name: Setup Python  # 安装python环境 
-      uses: actions/setup-python@v2.1.1
+      uses: actions/setup-python@v2
 
     - name: Install Python dependencies  # 安装python爬虫依赖包
       run: python -m pip install urllib3 lxml
