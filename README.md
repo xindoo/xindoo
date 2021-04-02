@@ -9,7 +9,7 @@
 
 
 <table align="center"><tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 开源项目  
 - [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版	
@@ -22,7 +22,7 @@
 
 	
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 我的博客
 - [Redis源码剖析之RDB](https://blog.csdn.net/xindoo/article/details/115287396)
@@ -33,5 +33,16 @@
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
+</td>
+<td valign="top" width="33%">
+
+### 开源项目  
+- [Redis源码剖析](https://blog.csdn.net/xindoo/category_10068113.html)  
+- [面试题精选](https://blog.csdn.net/xindoo/category_9991116.html)  
+- [高效工程师系列](https://blog.csdn.net/xindoo/category_9287916.html)  
+- [Java源码解析](https://blog.csdn.net/xindoo/category_9287770.html?spm=1001.2014.3001.5482)    
+- ……
+
+	
 </td>
 </tr></table>

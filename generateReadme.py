@@ -36,6 +36,18 @@ def addProjectInfo(f):
 	''' 
 	f.write(txt) 
 
+def addZhuanlanInfo(f):
+	txt ='''
+### 我的专栏  
+- [Redis源码剖析](https://blog.csdn.net/xindoo/category_10068113.html)  
+- [面试题精选](https://blog.csdn.net/xindoo/category_9991116.html)  
+- [高效工程师系列](https://blog.csdn.net/xindoo/category_9287916.html)  
+- [Java源码解析](https://blog.csdn.net/xindoo/category_9287770.html?spm=1001.2014.3001.5482)    
+- ……
+
+	''' 
+	f.write(txt) 
+
 
 def addBlogInfo(f):  
 	http = urllib3.PoolManager(num_pools=5, headers = headers)
@@ -61,11 +73,14 @@ if __name__=='__main__':
 	f = open('README.md', 'w+')
 	addIntro(f)
 	f.write('<table align="center"><tr>\n')
-	f.write('<td valign="top" width="50%">\n')
+	f.write('<td valign="top" width="33%">\n')
 	addProjectInfo(f)
 	f.write('\n</td>\n')
-	f.write('<td valign="top" width="50%">\n')
+	f.write('<td valign="top" width="33%">\n')
 	addBlogInfo(f)
+	f.write('\n</td>\n')
+	f.write('<td valign="top" width="33%">\n')
+	addZhuanlanInfo(f)
 	f.write('\n</td>\n')
 	f.write('</tr></table>\n')
 	f.close 
