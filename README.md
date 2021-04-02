@@ -25,11 +25,11 @@
 <td valign="top" width="50%">
 
 ### 我的博客
-- [awk实现类sql的join操作](https://xindoo.blog.csdn.net/article/details/109542972)
-- [CAP理论及其证明](https://xindoo.blog.csdn.net/article/details/109348163)
-- [今年是冷冬？我爬了北京10年的气温，哟 还真是！](https://xindoo.blog.csdn.net/article/details/109253392)
-- [Redis源码剖析之快速列表(quicklist)](https://xindoo.blog.csdn.net/article/details/109150975)
-- [Redis源码剖析之压缩列表(ziplist)](https://xindoo.blog.csdn.net/article/details/108923557)
+- [Redis源码剖析之RDB](https://blog.csdn.net/xindoo/article/details/115287396)
+- [我是如何打造出自己私有云存储的](https://blog.csdn.net/xindoo/article/details/114786448)
+- [Redis源码剖析之内存淘汰策略(Evict)](https://blog.csdn.net/xindoo/article/details/114239967)
+- [30行代码实现微信朋友圈自动点赞](https://blog.csdn.net/xindoo/article/details/113791863)
+- [30行代码实现蚂蚁森林自动偷能量](https://blog.csdn.net/xindoo/article/details/113734855)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
