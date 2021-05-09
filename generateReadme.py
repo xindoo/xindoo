@@ -15,8 +15,8 @@ def addIntro(f):
 </p>
 
 <p align="center"> 9年技术博主，CSDN认证博客专家，新晋视频up主 </p>  
-<p align="center"> 曾在阿里做过2年运维+1年开发，现为某厂Java后端开发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
-<p align="center"> 专注于Java，对操作系统、网络、编译原理也有涉猎，目前正在写一门简易的脚本语言u-lang	 </p>  
+<p align="center"> 曾在阿里做过2年运维+1年开发，现为某厂资深工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
+<p align="center"> 专注于Java，对操作系统、网络、编译原理也有涉猎</p>  
 
 
 ''' 
