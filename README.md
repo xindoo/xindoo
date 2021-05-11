@@ -25,6 +25,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [素数判定 高级程序员才知道的那些事儿](https://blog.csdn.net/xindoo/article/details/116564825)
+- [凯文·凯利写给年轻人的99条人生建议(99 Additional Bits of Unsolicited Advice)](https://blog.csdn.net/xindoo/article/details/116564517)
+- [5种解法的算法面试题 来看看你是青铜还是王者?](https://blog.csdn.net/xindoo/article/details/116464199)
+- [如何用正则表达式来检测一个数是否是素数](https://blog.csdn.net/xindoo/article/details/115826620)
+- [Redis源码剖析之AOF](https://blog.csdn.net/xindoo/article/details/115447240)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
