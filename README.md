@@ -25,11 +25,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [技术人如何写好文档——来自Google十多年的文档经验](https://blog.csdn.net/xindoo/article/details/119077644)
 - [某东14薪变16薪，是诚意还是套路？](https://blog.csdn.net/xindoo/article/details/118860536)
 - [Redis源码剖析之GEO——Redis是如何高效检索地理位置的？](https://blog.csdn.net/xindoo/article/details/117635546)
 - [顶流博主都这么写文章标题，看完不会你来打我啊](https://blog.csdn.net/xindoo/article/details/116863607)
 - [素数判定 高级程序员才知道的那些事儿](https://blog.csdn.net/xindoo/article/details/116564825)
-- [凯文·凯利写给年轻人的99条人生建议(99 Additional Bits of Unsolicited Advice)](https://blog.csdn.net/xindoo/article/details/116564517)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
