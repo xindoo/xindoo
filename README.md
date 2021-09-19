@@ -25,11 +25,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [女友为我绘制了几张头像，哪张最好看呢？](https://blog.csdn.net/xindoo/article/details/120377677)
 - [七张图了解kafka基本概念](https://blog.csdn.net/xindoo/article/details/120114230)
 - [正则表达式的高级用法——正|反向预查](https://blog.csdn.net/xindoo/article/details/119856764)
 - [如何写好技术文档——来自Google十多年的文档经验](https://blog.csdn.net/xindoo/article/details/119077644)
 - [某东14薪变16薪，是诚意还是套路？](https://blog.csdn.net/xindoo/article/details/118860536)
-- [Redis源码剖析之GEO——Redis是如何高效检索地理位置的？](https://blog.csdn.net/xindoo/article/details/117635546)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
