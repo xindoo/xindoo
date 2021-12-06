@@ -25,11 +25,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [为什么程序猿都应该学点linux命令？](https://blog.csdn.net/xindoo/article/details/121737950)
 - [使用ffmpeg从视频中提取纯音频&纯视频](https://blog.csdn.net/xindoo/article/details/121482547)
 - [使用ffmpeg将图片拼接为视频](https://blog.csdn.net/xindoo/article/details/121451318)
 - [使用ffmpeg拼接视频踩坑记录](https://blog.csdn.net/xindoo/article/details/121186052)
 - [Linux三剑客之awk入门指引](https://blog.csdn.net/xindoo/article/details/120932151)
-- [女友为我绘制了几张头像，哪张最好看呢？](https://blog.csdn.net/xindoo/article/details/120377677)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
