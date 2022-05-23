@@ -25,11 +25,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [关于代码评审(CodeReview)那些不得不说的事儿](https://blog.csdn.net/xindoo/article/details/124638319)
 - [CSDN开发者云对象存储命令行工具](https://blog.csdn.net/xindoo/article/details/124908091)
 - [如何写出高性能代码(三)优化内存回收(GC)](https://blog.csdn.net/xindoo/article/details/124536896)
 - [如何写出高性能代码(二)巧用数据特性](https://blog.csdn.net/xindoo/article/details/123941141)
 - [如何写出高性能代码(一)善用算法和数据结构](https://blog.csdn.net/xindoo/article/details/123783654)
-- [使用python实现一个日期和时间戳互转的Alfred workflow](https://blog.csdn.net/xindoo/article/details/122736786)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
