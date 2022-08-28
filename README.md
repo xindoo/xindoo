@@ -25,7 +25,7 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [Notion满足了我对笔记软件的一切想象](https://blog.csdn.net/xindoo/article/details/126559906)
+- [Notion 程序猿必备笔记软件](https://blog.csdn.net/xindoo/article/details/126559906)
 - [提效小技巧——记录那些不常用的代码片段](https://blog.csdn.net/xindoo/article/details/126337203)
 - [HTTP/3的历史和核心概念](https://blog.csdn.net/xindoo/article/details/126237222)
 - [在netty中使用protobuf并实现数据加密传输](https://blog.csdn.net/xindoo/article/details/125956759)
