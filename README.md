@@ -25,6 +25,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [聊聊Redis的数据热点问题](https://blog.csdn.net/xindoo/article/details/126802164)
+- [用Netty实现WebSocket网络聊天室](https://blog.csdn.net/xindoo/article/details/126572886)
+- [Notion 程序猿必备笔记软件](https://blog.csdn.net/xindoo/article/details/126559906)
+- [提效小技巧——记录那些不常用的代码片段](https://blog.csdn.net/xindoo/article/details/126337203)
+- [HTTP/3的历史和核心概念](https://blog.csdn.net/xindoo/article/details/126237222)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
