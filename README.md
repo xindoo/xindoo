@@ -25,11 +25,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [做得好 vs 做得快？](https://blog.csdn.net/xindoo/article/details/127197549)
 - [谷歌Guava LoadingCache介绍](https://blog.csdn.net/xindoo/article/details/127181480)
 - [一万小时真的能成为专家吗？](https://blog.csdn.net/xindoo/article/details/126924460)
 - [聊聊Redis的数据热点问题](https://blog.csdn.net/xindoo/article/details/126802164)
 - [用Netty实现WebSocket网络聊天室](https://blog.csdn.net/xindoo/article/details/126572886)
-- [Notion 程序猿必备笔记软件](https://blog.csdn.net/xindoo/article/details/126559906)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
