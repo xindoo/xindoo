@@ -25,7 +25,7 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [如何用ffmpeg截取视频片段 以及 截取时间不准确的坑](https://blog.csdn.net/xindoo/article/details/128810451)
+- [如何用ffmpeg截取视频片段&截取时间不准确的坑](https://blog.csdn.net/xindoo/article/details/128810451)
 - [XINDOO的2022年年终总结](https://blog.csdn.net/xindoo/article/details/128508742)
 - [使用ffmpeg将视频转成HLS(m3u8)格式](https://blog.csdn.net/xindoo/article/details/127838151)
 - [用ffmpeg将视频转成gif动图](https://blog.csdn.net/xindoo/article/details/127603896)
