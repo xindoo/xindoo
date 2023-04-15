@@ -35,11 +35,9 @@ jobs:
 
     - name: Commit and push if changed   # 将README.md更新到仓库
       run: |
-        git diff
-        git fetch --all
-        git reset --hard origin/master  
+        git diff 
         git config --global user.email "xindoo@zxs.io"
         git config --global user.name "zxs"
         git add -A
         git commit -m "Updated Readme" || exit 
-        git push
+        git push -f 
