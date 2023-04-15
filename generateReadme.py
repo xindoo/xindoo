@@ -56,13 +56,15 @@ def addBlogInfo(f):
 	resp_tree = etree.HTML(resp.data.decode("utf-8"))
 	# html_data = resp_tree.xpath(".//div[@class='article-item-box csdn-tracking-statistics']/h4") 
 	html_data = resp_tree.xpath(".//article[@class='blog-list-box']")
+
+ 
 	f.write("\n### 我的博客\n")
 	cnt = 0
 	for i in html_data: 
 		if cnt >= 5:
 			break
 		# title = i.xpath('./a/text()')[1].strip()
-		title = i.xpath("./a/div/h4/text()")[0].strip()
+		title = i.xpath("./a/div[2]/div[1]/div[1]/h4/text()")[0].strip()
 		url = i.xpath('./a/@href')[0] 
 		item = '- [%s](%s)\n' % (title, url)
 		f.write(item)
