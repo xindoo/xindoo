@@ -14,7 +14,7 @@ def addIntro(f):
   <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
 </p>
 
-<p align="center"> 10+年技术博主，CSDN认证博客专家，<del>新晋视频up主</del> </p>  
+<p align="center"> 10+年技术博主，CSDN、华为云、阿里云、51CTO社区认证博客专家，2022腾讯云开发者社区年度潜力作者…… </p>  
 <p align="center"> 曾在阿里做过2年运维+1年开发，现为某厂资深工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络、编译原理也有涉猎</p>  
 
