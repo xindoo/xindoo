@@ -25,11 +25,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [使用ffmpeg缩小视频体积的几种方式](https://blog.csdn.net/xindoo/article/details/130186891)
 - [Linux parallel 命令使用手册](https://blog.csdn.net/xindoo/article/details/130049059)
 - [为什么说过早优化是万恶之源？](https://blog.csdn.net/xindoo/article/details/129894853)
 - [人工智能未来是否会取代人类程序员？](https://blog.csdn.net/xindoo/article/details/129656503)
 - [深入理解Spring的事件通知机制](https://blog.csdn.net/xindoo/article/details/129644645)
-- [Linux xargs命令介绍](https://blog.csdn.net/xindoo/article/details/129643148)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
