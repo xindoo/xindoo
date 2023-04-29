@@ -11,6 +11,9 @@ headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWeb
 def addIntro(f):
 	txt = '''  
 <p align="center">
+  <img src="https://github.com/xindoo/xindoo/blob/output/github-contribution-grid-snake.svg"/>
+</p>	
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
 </p>
 
