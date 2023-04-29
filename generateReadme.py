@@ -6,7 +6,7 @@ import re
 
 blogUrl = 'https://xindoo.blog.csdn.net/?type=blog'
 
-headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36'} 
+headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'} 
 
 def addIntro(f):
 	txt = '''  
@@ -17,8 +17,8 @@ def addIntro(f):
   <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
 </p>
 
-<p align="center"> 10+年技术博主，CSDN、华为云、阿里云、51CTO社区认证博客专家，2022腾讯云开发者社区年度潜力作者…… </p>  
-<p align="center"> 曾在阿里做过2年运维+1年开发，现为某厂资深工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
+<p align="center"> 10+年技术博主，CSDN、华为云、阿里云等社区认证博客专家，2022腾讯云开发者社区年度潜力作者…… </p>  
+<p align="center"> 曾在某大厂做过2年运维+1年开发，做过广告引擎，现为某厂资深工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
 <p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络、编译原理也有涉猎</p>  
 
 
