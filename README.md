@@ -1,5 +1,8 @@
   
 <p align="center">
+  <img src="https://github.com/xindoo/xindoo/blob/output/github-contribution-grid-snake.svg"/>
+</p>	
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
 </p>
 
@@ -25,11 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [从CPU的视角看 多线程代码为什么那么难写！](https://blog.csdn.net/xindoo/article/details/130438124)
 - [使用ffmpeg缩小视频体积的几种方式](https://blog.csdn.net/xindoo/article/details/130186891)
 - [Linux parallel 命令使用手册](https://blog.csdn.net/xindoo/article/details/130049059)
 - [为什么说过早优化是万恶之源？](https://blog.csdn.net/xindoo/article/details/129894853)
 - [人工智能未来是否会取代人类程序员？](https://blog.csdn.net/xindoo/article/details/129656503)
-- [深入理解Spring的事件通知机制](https://blog.csdn.net/xindoo/article/details/129644645)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
