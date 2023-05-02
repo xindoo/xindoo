@@ -28,6 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [ThreadPoolExecutor——高效处理并发任务的必备良器](https://blog.csdn.net/xindoo/article/details/130452351)
+- [从CPU的视角看 多线程代码为什么那么难写！](https://blog.csdn.net/xindoo/article/details/130438708)
+- [使用ffmpeg缩小视频体积的几种方式](https://blog.csdn.net/xindoo/article/details/130186891)
+- [Linux parallel 命令使用手册](https://blog.csdn.net/xindoo/article/details/130049059)
+- [为什么说过早优化是万恶之源？](https://blog.csdn.net/xindoo/article/details/129894853)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
