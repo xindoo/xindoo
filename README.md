@@ -28,6 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [ChatGPT函数调用初体验：让ChatGPT具备抓取网页文本的能力](https://blog.csdn.net/xindoo/article/details/131262670)
+- [如何使用ChatGPT提升自己的“码”力?](https://blog.csdn.net/xindoo/article/details/130916178)
+- [使用ffmpeg拼接两张图片](https://blog.csdn.net/xindoo/article/details/130477370)
+- [ThreadPoolExecutor——高效处理并发任务的必备良器](https://blog.csdn.net/xindoo/article/details/130452351)
+- [从CPU的视角看 多线程代码为什么那么难写！](https://blog.csdn.net/xindoo/article/details/130438708)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
