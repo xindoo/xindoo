@@ -67,7 +67,7 @@ def addBlogInfo(f):
 		if cnt >= 5:
 			break
 		# title = i.xpath('./a/text()')[1].strip()
-		title = i.xpath("./a/div[2]/div[1]/div[1]/h4/text()")[0].strip()
+		title = i.xpath("./a//h4/text()")[0].strip()
 		url = i.xpath('./a/@href')[0] 
 		item = '- [%s](%s)\n' % (title, url)
 		f.write(item)
