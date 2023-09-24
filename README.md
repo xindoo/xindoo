@@ -28,11 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [Java21虚拟线程实践](https://blog.csdn.net/xindoo/article/details/133248452)
 - [spring-kafka中ContainerProperties.AckMode详解](https://blog.csdn.net/xindoo/article/details/132652579)
 - [如何在地图上寻找最密集点的位置？](https://blog.csdn.net/xindoo/article/details/132515004)
 - [IO密集型服务提升性能的三种方法](https://blog.csdn.net/xindoo/article/details/131753862)
 - [职场中的基本归因错误和自利归因](https://blog.csdn.net/xindoo/article/details/131883462)
-- [使用javax.validation.constraints校验参数合法性](https://blog.csdn.net/xindoo/article/details/131386580)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
