@@ -28,11 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [OpenAI的多函数调用（Multiple Function Calling)简介](https://blog.csdn.net/xindoo/article/details/134483093)
 - [ffmpeg视频截取时DTS乱序导致无法截取的问题](https://blog.csdn.net/xindoo/article/details/134220471)
 - [如何使用ffmpeg制作透明背景的视频](https://blog.csdn.net/xindoo/article/details/134096967)
 - [Java21虚拟线程实践](https://blog.csdn.net/xindoo/article/details/133248452)
 - [spring-kafka中ContainerProperties.AckMode详解](https://blog.csdn.net/xindoo/article/details/132652579)
-- [如何在地图上寻找最密集点的位置？](https://blog.csdn.net/xindoo/article/details/132515004)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
