@@ -28,6 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [软件开发中的抓大放小vs极致细节思维](https://blog.csdn.net/xindoo/article/details/134621373)
+- [OpenAI Assistants-API简明教程](https://blog.csdn.net/xindoo/article/details/134494270)
+- [OpenAI的多函数调用（Multiple Function Calling)简介](https://blog.csdn.net/xindoo/article/details/134483093)
+- [ffmpeg视频截取时DTS乱序导致无法截取的问题](https://blog.csdn.net/xindoo/article/details/134220471)
+- [如何使用ffmpeg制作透明背景的视频](https://blog.csdn.net/xindoo/article/details/134096967)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
