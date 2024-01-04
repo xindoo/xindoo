@@ -28,6 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [如何正确使用缓存来提升系统性能](https://blog.csdn.net/xindoo/article/details/134986225)
+- [Java CompletableFuture使用示例](https://blog.csdn.net/xindoo/article/details/134770140)
+- [软件开发中的抓大放小vs极致细节思维](https://blog.csdn.net/xindoo/article/details/134621373)
+- [OpenAI Assistants-API简明教程](https://blog.csdn.net/xindoo/article/details/134494270)
+- [OpenAI的多函数调用（Multiple Function Calling)简介](https://blog.csdn.net/xindoo/article/details/134483093)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
