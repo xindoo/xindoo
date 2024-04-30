@@ -28,11 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [IO密集型服务提升性能的三种方法](https://blog.csdn.net/xindoo/article/details/131753862)
-- [职场中的基本归因错误和自利归因](https://blog.csdn.net/xindoo/article/details/131883462)
-- [使用javax.validation.constraints校验参数合法性](https://blog.csdn.net/xindoo/article/details/131386580)
-- [Java Optional：让你的代码更优雅](https://blog.csdn.net/xindoo/article/details/131362948)
-- [ChatGPT函数调用初体验：让ChatGPT具备抓取网页文本的能力](https://blog.csdn.net/xindoo/article/details/131262670)
+- [我的CSDN 4096创作纪念日](https://blog.csdn.net/xindoo/article/details/137179910)
+- [关于ffmpeg height not divisible by 2的错误](https://blog.csdn.net/xindoo/article/details/136784426)
+- [使用Certbot解决https证书自动更新的问题](https://blog.csdn.net/xindoo/article/details/136597447)
+- [XINDOO的2023年总结](https://blog.csdn.net/xindoo/article/details/136332450)
+- [Spring Cache简明教程](https://blog.csdn.net/xindoo/article/details/135900040)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
