@@ -28,11 +28,6 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [我的CSDN 4096创作纪念日](https://blog.csdn.net/xindoo/article/details/137179910)
-- [关于ffmpeg height not divisible by 2的错误](https://blog.csdn.net/xindoo/article/details/136784426)
-- [使用Certbot解决https证书自动更新的问题](https://blog.csdn.net/xindoo/article/details/136597447)
-- [XINDOO的2023年总结](https://blog.csdn.net/xindoo/article/details/136332450)
-- [Spring Cache简明教程](https://blog.csdn.net/xindoo/article/details/135900040)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
