@@ -28,6 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [两个开源项目打造自己的大模型聚合平台](https://blog.csdn.net/xindoo/article/details/139567395)
+- [我让gpt4o给我推荐了一千多次书 得到了这些数据](https://blog.csdn.net/xindoo/article/details/139205173)
+- [当下性价比最高的大语言模型DeepSeek-V2-Chat](https://blog.csdn.net/xindoo/article/details/139047432)
+- [如何在LangChain的agent中记录对话历史](https://blog.csdn.net/xindoo/article/details/138768104)
+- [用LangChain打造一个可以管理日程的智能助手](https://blog.csdn.net/xindoo/article/details/138448675)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
