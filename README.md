@@ -28,6 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [从马斯洛需求层次理论谈职场激励](https://blog.csdn.net/xindoo/article/details/141789808)
+- [知识与智慧](https://blog.csdn.net/xindoo/article/details/141144859)
+- [如何使用大语言模型绘制专业图表](https://blog.csdn.net/xindoo/article/details/140618484)
+- [两个开源项目打造自己的大模型聚合平台](https://blog.csdn.net/xindoo/article/details/139567395)
+- [我让gpt4o给我推荐了一千多次书 得到了这些数据](https://blog.csdn.net/xindoo/article/details/139205173)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
