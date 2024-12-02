@@ -28,11 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [如何用GPT-4o解读视频](https://blog.csdn.net/xindoo/article/details/143837432)
+- [json命令行处理神器jq介绍](https://blog.csdn.net/xindoo/article/details/143471688)
 - [OpenAI的结构化浅析](https://blog.csdn.net/xindoo/article/details/143270941)
 - [从大模型的原理到提示词优化](https://blog.csdn.net/xindoo/article/details/143255790)
 - [从经济学原理看团队分工合作](https://blog.csdn.net/xindoo/article/details/142899342)
-- [[翻译]关于人工智能的30个思考](https://blog.csdn.net/xindoo/article/details/142895112)
-- [从马斯洛需求层次理论谈职场激励](https://blog.csdn.net/xindoo/article/details/141789808)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
