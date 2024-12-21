@@ -28,11 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [为什么AI智能体需要工作流](https://blog.csdn.net/xindoo/article/details/144635641)
 - [如何用GPT-4o解读视频](https://blog.csdn.net/xindoo/article/details/143837432)
 - [json命令行处理神器jq介绍](https://blog.csdn.net/xindoo/article/details/143471688)
 - [OpenAI的结构化浅析](https://blog.csdn.net/xindoo/article/details/143270941)
 - [从大模型的原理到提示词优化](https://blog.csdn.net/xindoo/article/details/143255790)
-- [从经济学原理看团队分工合作](https://blog.csdn.net/xindoo/article/details/142899342)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
