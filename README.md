@@ -28,6 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [302.ai推出缝合模型](https://blog.csdn.net/xindoo/article/details/146058612)
+- [HTTP/3：性能改进(第 2 部分)](https://blog.csdn.net/xindoo/article/details/145815214)
+- [deepseek-r1祛魅：从过度热捧到理性认知⁠](https://blog.csdn.net/xindoo/article/details/145741030)
+- [拒绝3K升级费！手把手教你用Swap给2C4G服务器续命](https://blog.csdn.net/xindoo/article/details/145405027)
+- [为什么AI智能体需要工作流](https://blog.csdn.net/xindoo/article/details/144635641)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
