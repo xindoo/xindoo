@@ -28,11 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [AI应用的五个级别：从入门到专家的进阶之路](https://blog.csdn.net/xindoo/article/details/147526989)
 - [一文入门AI圈最近爆火的MCP协议](https://blog.csdn.net/xindoo/article/details/147195947)
 - [借助mcpo在open-webui中使用mcp](https://blog.csdn.net/xindoo/article/details/147016935)
 - [302.ai推出缝合模型](https://blog.csdn.net/xindoo/article/details/146058612)
 - [HTTP/3：性能改进(第 2 部分)](https://blog.csdn.net/xindoo/article/details/145815214)
-- [deepseek-r1祛魅：从过度热捧到理性认知⁠](https://blog.csdn.net/xindoo/article/details/145741030)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
