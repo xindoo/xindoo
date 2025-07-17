@@ -28,6 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [从LLM和MCP的协同过程看如何做优化](https://blog.csdn.net/xindoo/article/details/149154390)
+- [打通Dify与AI工具生态：将Workflow转为MCP工具的实践](https://blog.csdn.net/xindoo/article/details/149003421)
+- [Docker容器自动更新利器：Watchtower](https://blog.csdn.net/xindoo/article/details/148833052)
+- [一文了解知识库背后的技术RAG](https://blog.csdn.net/xindoo/article/details/148214089)
+- [AI应用的五个级别：从入门到专家的进阶之路](https://blog.csdn.net/xindoo/article/details/147526989)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
