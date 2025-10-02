@@ -28,11 +28,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [AI Agent 设计模式：从理论到实践的完整指南](https://blog.csdn.net/xindoo/article/details/152408606)
 - [从经验主义到贝叶斯理论：如何排查线上问题](https://blog.csdn.net/xindoo/article/details/151652962)
 - [我用AI为自己造了一把安全的开发者“瑞士军刀””](https://blog.csdn.net/xindoo/article/details/151051126)
 - [世人只知张小龙，无人记我陶建辉](https://blog.csdn.net/xindoo/article/details/150353057)
 - [从LLM和MCP的协同过程看如何做优化](https://blog.csdn.net/xindoo/article/details/149154390)
-- [打通Dify与AI工具生态：将Workflow转为MCP工具的实践](https://blog.csdn.net/xindoo/article/details/149003421)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
