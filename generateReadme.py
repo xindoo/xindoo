@@ -29,6 +29,7 @@ def addProjectInfo(f):
 	txt ='''
 ### 开源项目  
 - [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版	
+- [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)谷歌Agent设计模式中文版
 - [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式	
 - [redis](https://github.com/xindoo/redis) Redis中文注解版  
 - [slowjson](https://github.com/xindoo/slowjson) 用antlr实现的json解析器  
