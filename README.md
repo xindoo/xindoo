@@ -29,11 +29,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [用n8n实现一个长视频生成工作流](https://blog.csdn.net/xindoo/article/details/154212019)
 - [使用n8n做一个自动同步更新的Github项目问答机器人](https://blog.csdn.net/xindoo/article/details/153917094)
 - [AI Agent 设计模式：从理论到实践的完整指南](https://blog.csdn.net/xindoo/article/details/152408606)
 - [从经验主义到贝叶斯理论：如何排查线上问题](https://blog.csdn.net/xindoo/article/details/151652962)
 - [我用AI为自己造了一把安全的开发者“瑞士军刀””](https://blog.csdn.net/xindoo/article/details/151051126)
-- [世人只知张小龙，无人记我陶建辉](https://blog.csdn.net/xindoo/article/details/150353057)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
