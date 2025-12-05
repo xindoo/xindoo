@@ -3,7 +3,7 @@
   <img src="https://github.com/xindoo/xindoo/blob/output/github-contribution-grid-snake.svg"/>
 </p>	
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
+  <img src="https://githubcard.com/xindoo.svg?d=vaqeXVQZ"/>
 </p>
 
 <p align="center"> 10+年技术博主，CSDN、华为云、阿里云等社区认证博客专家，2022腾讯云开发者社区年度潜力作者…… </p>  
