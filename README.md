@@ -29,11 +29,6 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [一周改6个库后我悟了：AI时代，程序员正在退化成“甲方”](https://blog.csdn.net/xindoo/article/details/155207696)
-- [用n8n实现一个长视频生成工作流](https://blog.csdn.net/xindoo/article/details/154212019)
-- [使用n8n做一个自动同步更新的Github项目问答机器人](https://blog.csdn.net/xindoo/article/details/153917094)
-- [AI Agent 设计模式：从理论到实践的完整指南](https://blog.csdn.net/xindoo/article/details/152408606)
-- [从经验主义到贝叶斯理论：如何排查线上问题](https://blog.csdn.net/xindoo/article/details/151652962)
 
 [查看更多](https://xindoo.blog.csdn.net/)
 
