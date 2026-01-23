@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 import urllib3
-from lxml import etree
-import html
 import re
 
-blogUrl = 'https://blog.csdn.net/xindoo?type=blog'
+llmsUrl = 'https://zxs.io/llms.txt'
 
 headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'} 
 
@@ -54,26 +52,40 @@ def addZhuanlanInfo(f):
 	f.write(txt) 
 
 
-def addBlogInfo(f):  
-	http = urllib3.PoolManager(num_pools=5, headers = headers)
-	resp = http.request('GET', blogUrl)
-	resp_tree = etree.HTML(resp.data.decode("utf-8"))
-	# html_data = resp_tree.xpath(".//div[@class='article-item-box csdn-tracking-statistics']/h4") 
-	html_data = resp_tree.xpath(".//article[@class='blog-list-box']")
-
- 
+def addBlogInfo(f):
+	http = urllib3.PoolManager(num_pools=5, headers=headers)
+	resp = http.request('GET', llmsUrl)
+	content = resp.data.decode("utf-8")
+	
+	# Parse the "## 文章" section
+	lines = content.split('\n')
+	in_articles_section = False
+	articles = []
+	
+	for line in lines:
+		line = line.strip()
+		if line == '## 文章':
+			in_articles_section = True
+			continue
+		elif line.startswith('## ') and in_articles_section:
+			break
+		elif in_articles_section and line.startswith('- ['):
+			# Parse the markdown link format: - [title](url)
+			match = re.match(r'- \[([^\]]+)\]\(([^)]+)\)', line)
+			if match:
+				title = match.group(1)
+				url = match.group(2)
+				articles.append((title, url))
+	
 	f.write("\n### 我的博客\n")
 	cnt = 0
-	for i in html_data: 
+	for title, url in articles:
 		if cnt >= 5:
 			break
-		# title = i.xpath('./a/text()')[1].strip()
-		title = i.xpath("./a//h4/text()")[0].strip()
-		url = i.xpath('./a/@href')[0] 
 		item = '- [%s](%s)\n' % (title, url)
 		f.write(item)
 		cnt = cnt + 1
-	f.write('\n[查看更多](https://xindoo.blog.csdn.net/)\n')
+	f.write('\n[查看更多](https://zxs.io/)\n')
 
 
 if __name__=='__main__':
