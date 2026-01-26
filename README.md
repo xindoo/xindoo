@@ -33,7 +33,6 @@
 - [最近AI领域爆火的 Agent Skills 是什么？](https://zxs.io/article/2154)
 - [从计算机科学的视角来看拖延症](https://zxs.io/article/2149)
 - [一周改6个库后我悟了：AI时代，程序员正在退化成“甲方”](https://zxs.io/article/2143)
-- [使用n8n做一个自动同步更新的Github项目问答机器人](https://zxs.io/article/2135)
 
 [查看更多](https://zxs.io/)
 
