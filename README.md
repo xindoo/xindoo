@@ -29,10 +29,10 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [我用AI写了部小说，这里是整个过程](https://zxs.io/article/2162)
 - [2万字吊打40万字：为什么我的“牛马Agent”比“数字分身”更聪明？](https://zxs.io/article/2157)
 - [最近AI领域爆火的 Agent Skills 是什么？](https://zxs.io/article/2154)
 - [从计算机科学的视角来看拖延症](https://zxs.io/article/2149)
-- [一周改6个库后我悟了：AI时代，程序员正在退化成“甲方”](https://zxs.io/article/2143)
 
 [查看更多](https://zxs.io/)
 
