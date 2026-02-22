@@ -19,13 +19,15 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps: 
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2  
+    - uses: actions/checkout@v4  
       
     - name: Setup Python  # 安装python环境 
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
 
     - name: Install Python dependencies  # 安装python爬虫依赖包
-      run: python -m pip install urllib3 lxml
+      run: python -m pip install urllib3
 
     - name: Run python   # 生成新的README.md文件 
       run: python generateReadme.py
@@ -39,5 +41,5 @@ jobs:
         git config --global user.email "xindoo@zxs.io"
         git config --global user.name "zxs"
         git add -A
-        git commit -m "Updated Readme" || exit 
-        git push -f 
+        git commit -m "Updated Readme" || exit 0
+        git push

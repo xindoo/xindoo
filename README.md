@@ -1,14 +1,14 @@
   
 <p align="center">
-  <img src="https://github.com/xindoo/xindoo/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/xindoo/xindoo/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>	
 <p align="center">
-  <img src="https://githubcard.com/xindoo.svg?d=vaqeXVQZ"/>
+  <img src="https://githubcard.com/xindoo.svg?d=vaqeXVQZ" alt="GitHub Stats"/>
 </p>
 
-<p align="center"> 10+年技术博主，CSDN、华为云、阿里云等社区认证博客专家，2022腾讯云开发者社区年度潜力作者…… </p>  
-<p align="center"> 曾在某大厂做过2年运维+1年开发，做过广告引擎，现为某厂资深工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
-<p align="center"> 擅长Java、Lniux、Redis，对操作系统、网络、编译原理也有涉猎</p>  
+<p align="center"> <strong>AI工具人</strong> | <strong>提示词工程师</strong> | 10+年技术博主，CSDN/华为云/阿里云等社区认证博客专家，2022腾讯云开发者社区年度潜力作者 </p>  
+<p align="center"> 曾就职于阿里、小米，现任贝壳资深工程师 | 码龄14年，CSDN 172万+访问量，2.1万+粉丝 </p>  
+<p align="center"> 拥有运维、搜索广告、后端业务相关工作经验，擅长Java、Linux、Redis，对AI/Agent、操作系统、网络、编译原理也有涉猎</p>  
 
 
 <table align="center"><tr>
@@ -24,7 +24,7 @@
    
 [查看更多](https://github.com/xindoo/)	 
 
-	
+
 </td>
 <td valign="top" width="33%">
 
@@ -47,6 +47,6 @@
 - [Java源码解析](https://blog.csdn.net/xindoo/category_9287770.html)    
 - ……
 
-	
+
 </td>
 </tr></table>
