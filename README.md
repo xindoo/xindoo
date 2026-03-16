@@ -29,10 +29,10 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [深度探讨：从 OpenClaw 爆火，看 AI Agent 的真相与程序员的未来](https://zxs.io/article/2169)
 - [我复刻了NotebookLM的信息图功能](https://zxs.io/article/2166)
 - [我用AI写了部小说，这里是整个过程](https://zxs.io/article/2162)
 - [2万字吊打40万字：为什么我的“牛马Agent”比“数字分身”更聪明？](https://zxs.io/article/2157)
-- [最近AI领域爆火的 Agent Skills 是什么？](https://zxs.io/article/2154)
 
 [查看更多](https://zxs.io/)
 
