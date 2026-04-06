@@ -29,11 +29,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [AI 也会偷懒？这个 PUA 工具专治“摸鱼式编程”](https://zxs.io/article/2177)
 - [Gstack 深度解析：YC CEO 开源的 AI 工程团队](https://zxs.io/article/2174)
 - [GitHub Trending霸榜！深度解析AI Coding辅助神器 Superpowers](https://zxs.io/article/2172)
 - [深度探讨：从 OpenClaw 爆火，看 AI Agent 的真相与程序员的未来](https://zxs.io/article/2169)
 - [我复刻了NotebookLM的信息图功能](https://zxs.io/article/2166)
-- [我用AI写了部小说，这里是整个过程](https://zxs.io/article/2162)
 
 [查看更多](https://zxs.io/)
 
