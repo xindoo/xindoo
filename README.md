@@ -29,11 +29,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [从豆包收费看 AI 商业化的必然逻辑](https://zxs.io/article/2193)
 - [为什么程序员反而是受 AI 冲击最大的岗位](https://zxs.io/article/2190)
 - [关于内卷，几个值得深想的洞察](https://zxs.io/article/2186)
 - [当创作被 Skill 化：我用 AI 写了一部 320 章的长篇网文](https://zxs.io/article/2183)
 - [AI第一剑，先斩程序员](https://zxs.io/article/2181)
-- [AI 也会偷懒？这个 PUA 工具专治“摸鱼式编程”](https://zxs.io/article/2177)
 
 [查看更多](https://zxs.io/)
 
