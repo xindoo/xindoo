@@ -29,10 +29,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
-- [我用AI写了部小说，这里是整个过程](https://zxs.io/article/2162)
-- [2万字吊打40万字：为什么我的“牛马Agent”比“数字分身”更聪明？](https://zxs.io/article/2157)
-- [最近AI领域爆火的 Agent Skills 是什么？](https://zxs.io/article/2154)
-- [从计算机科学的视角来看拖延症](https://zxs.io/article/2149)
+- [浅谈 Loop Engineering 与组织运作的相似性](https://zxs.io/article/2201)
+- [从豆包收费看 AI 商业化的必然逻辑](https://zxs.io/article/2193)
+- [烧 Token：一件正在被重新审视的事](https://zxs.io/article/2197)
+- [为什么程序员反而是受 AI 冲击最大的岗位](https://zxs.io/article/2190)
+- [关于内卷，几个值得深想的洞察](https://zxs.io/article/2186)
 
 [查看更多](https://zxs.io/)
 
@@ -50,3 +51,12 @@
 
 </td>
 </tr></table>
+
+### 个人微信公众号
+<p align="center">
+  <img src="img/xindoochat.jpg" width="220" alt="XIN洞察"/>
+</p>
+<p align="center"><strong>XIN洞察</strong></p>
+<p align="center">资深博主，做过运维、写过代码、现任产品经理，从命令行终端敲到产品设计稿，跨视角硬核解码新时代的XIN洞察</p>
+<p align="center">欢迎扫码关注</p>
+

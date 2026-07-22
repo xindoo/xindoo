@@ -57,6 +57,20 @@ def addZhuanlanInfo(f):
     f.write(txt)
 
 
+def addWechatInfo(f):
+    txt = '''
+### 个人微信公众号
+<p align="center">
+  <img src="img/xindoochat.jpg" width="220" alt="XIN洞察"/>
+</p>
+<p align="center"><strong>XIN洞察</strong></p>
+<p align="center">资深博主，做过运维、写过代码、现任产品经理，从命令行终端敲到产品设计稿，跨视角硬核解码新时代的XIN洞察</p>
+<p align="center">欢迎扫码关注</p>
+
+'''
+    f.write(txt)
+
+
 def addBlogInfo(f):
     http = urllib3.PoolManager(num_pools=5, headers=headers)
     resp = http.request('GET', llmsUrl)
@@ -108,6 +122,7 @@ if __name__ == '__main__':
         addZhuanlanInfo(f)
         f.write('\n</td>\n')
         f.write('</tr></table>\n')
+        addWechatInfo(f)
         print("README.md generated successfully!")
     except Exception as e:
         print(f"Error generating README: {e}", file=sys.stderr)
