@@ -29,11 +29,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [从超级个体到一人公司](https://zxs.io/article/2217)
+- [我和 AI 共创了一套会自己生长的 Obsidian 知识库](https://zxs.io/article/2215)
 - [为什么我说绝大部分人都不需要AI知识库](https://zxs.io/article/2212)
 - [聊一聊商业产品背后的定价逻辑](https://zxs.io/article/2210)
 - [AI时代，中层管理者之危](https://zxs.io/article/2206)
-- [程序员的阶级固化：同一个职业三种人生](https://zxs.io/article/2204)
-- [浅谈 Loop Engineering 与组织运作的相似性](https://zxs.io/article/2201)
 
 [查看更多](https://zxs.io/)
 
