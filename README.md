@@ -29,11 +29,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [为什么很多公司（团队）会考核工时](https://zxs.io/article/2220)
 - [从超级个体到一人公司](https://zxs.io/article/2217)
 - [我和 AI 共创了一套会自己生长的 Obsidian 知识库](https://zxs.io/article/2215)
 - [为什么我说绝大部分人都不需要AI知识库](https://zxs.io/article/2212)
 - [聊一聊商业产品背后的定价逻辑](https://zxs.io/article/2210)
-- [AI时代，中层管理者之危](https://zxs.io/article/2206)
 
 [查看更多](https://zxs.io/)
 
