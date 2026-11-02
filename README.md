@@ -29,11 +29,11 @@
 <td valign="top" width="33%">
 
 ### 我的博客
+- [AI 提效了，为什么大部分公司没额外赚到钱](https://zxs.io/article/2233)
 - [我对 AI 写作的看法，以及我是怎么用的](https://zxs.io/article/2230)
 - [超级个体为什么还需要团队？](https://zxs.io/article/2223)
 - [为什么很多公司（团队）会考核工时](https://zxs.io/article/2220)
 - [从超级个体到一人公司](https://zxs.io/article/2217)
-- [我和 AI 共创了一套会自己生长的 Obsidian 知识库](https://zxs.io/article/2215)
 
 [查看更多](https://zxs.io/)
 
